@@ -73,11 +73,8 @@ This project helped me understand:
 
 ---
 
-##  Future Improvements
-- Save theme preference in localStorage
-- Add icons for light/dark mode
-- Smooth theme transition animations
-- Use dynamic card data with props
+##  Screenshot: <img width="941" height="414" alt="image" src="https://github.com/user-attachments/assets/f9cf861d-ec6e-4ccb-9988-ddcbf15d056e" />
+
 
 ---
 
